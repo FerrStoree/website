@@ -77,14 +77,14 @@ export default function Home() {
                 title="Digital Ocean"
                 price={140000}
                 description="Layanan cloud hosting terbaik dengan performa tinggi dan skalabilitas yang mudah"
-                image="/digital-ocean.png"
+                image="https://img1.pixhost.to/images/5416/593835090_ferrstoree.jpg"
                 id="digital-ocean"
               />
               <ProductCard
                 title="VPS Digital Ocean"
                 price={20000}
                 description="Virtual Private Server dengan pilihan spesifikasi sesuai kebutuhan Anda"
-                image="/vps.png"
+                image="https://img1.pixhost.to/images/5416/593836587_ferrstoree.jpg"
                 id="vps-digital-ocean"
                 hasOptions={true}
               />
@@ -92,7 +92,7 @@ export default function Home() {
                 title="Panel Pterodactyl"
                 price={1000}
                 description="Panel game server yang mudah digunakan dengan berbagai pilihan kapasitas"
-                image="/pterodactyl.png"
+                image="https://img1.pixhost.to/images/5416/593835116_ferrstoree.jpg"
                 id="panel-pterodactyl"
                 hasOptions={true}
               />
@@ -100,7 +100,7 @@ export default function Home() {
                 title="SC Simple Create v2.5"
                 price={25000}
                 description="Script pembuatan server game dengan fitur lengkap dan mudah digunakan"
-                image="/script.png"
+                image="https://img1.pixhost.to/images/5416/593835161_ferrstoree.jpg"
                 id="sc-simple-create"
               />
             </div>
