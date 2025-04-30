@@ -16,7 +16,7 @@ const products = [
     id: "vps-digital-ocean",
     title: "VPS Digital Ocean",
     description: "Virtual Private Server dengan pilihan spesifikasi sesuai kebutuhan Anda",
-    image: "https://img1.pixhost.to/images/5416/593836587_ferrstoree.jpg,
+    image: "https://img1.pixhost.to/images/5416/593836587_ferrstoree.jpg",
   },
   {
     id: "panel-pterodactyl",
